@@ -38,8 +38,8 @@ public class isIsomorphic205 {
         /**
          * 两张 hash 表, 同时维护双向映射, 若发现存在 key 则检查 value 是否为当前映射字符, 若不是则说明冲突
          */
-        public boolean isIsomorphic2(String s, String t) {
-        }
+        /*public boolean isIsomorphic2(String s, String t) {
+        }*/
 
     }
 }

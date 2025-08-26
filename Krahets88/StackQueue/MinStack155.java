@@ -61,6 +61,7 @@ public class MinStack155 {
         public int pop() {
             stack.pop();
             minStack.pop();
+            return 0;
         }
 
         public int top() {
